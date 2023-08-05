@@ -1,12 +1,12 @@
 #dodger {
-  background-color: white;
+  background-color: #8b4241;
   height: 20px;
   position: absolute;
   width: 40px;
 }
 
 #game {
-  background-color: #111;
+  background-color: #ffb9d0;
   height: 400px;
   margin: 0 auto;
   overflow: hidden;
